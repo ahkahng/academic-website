@@ -1,0 +1,20 @@
+baseURL = "https://cs.cmu.edu/~akahng"
+languageCode = "en-us"
+title = "Anson Kahng"
+theme = "book"
+
+[Params]
+    mainSections = ["docs"]
+    intro = true
+    email = "ansonkahng@gmail.com"
+    opengraph = true
+    BookSearch = false
+    BookToC = false
+    BookComments = false
+    enableGitInfo = false
+    enableEmoji = true
+
+
+[Permalinks]
+    post = "/:filename/"
+
