@@ -17,7 +17,7 @@ I work on theoretical problems at the intersection of computer science and econo
 
 Recently, I have focused on problems at the intersection of computer science and democracy. Crucially, this interaction is a two-way street: Not only can we use principles from computer science to analyze and design democratic paradigms, but we can also use ideas from democracy to solve difficult problems in computer science. Some projects I have worked on in this space include virtual democracy, liquid democracy, and participatory budgeting.
 
-In general, I am excited about solving real-world problems with a combination of theoretical and empirical tools. Many of my projects incorporate ideas from theoretical computer science, artificial intelligence, and (sometimes) human-computer interaction, and I am always excited to form new interdisciplinary collaborations.
+In general, I am excited about solving real-world problems with a combination of theoretical and empirical tools. Many of my projects incorporate ideas from theoretical computer science, artificial intelligence, and (sometimes) human-computer interaction, and I am always excited to start new interdisciplinary collaborations.
 
 ### Miscellaneous
 
