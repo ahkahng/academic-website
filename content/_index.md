@@ -7,8 +7,6 @@ bookToc: false
 <!-- ![](./images/profile.jpg) -->
 
 
-
-
 ### About Me
 
 I am an Assistant Professor in the [Department of Computer Science](https://www.cs.rochester.edu/) and the [Goergen Institute of Data Science](https://www.sas.rochester.edu/dsc/) at the University of Rochester. I was previously at the University of Toronto for a postdoc working with [Nisarg Shah](https://www.cs.toronto.edu/~nisarg/index.html). Before that, I completed my PhD degree in the Computer Science Department at Carnegie Mellon University, where I was fortunate to be advised by [Ariel Procaccia](http://procaccia.info/). Even before that, I completed my undergraduate degree in computer science at Harvard College, where I worked with [David Parkes](https://www.eecs.harvard.edu/~parkes/) on dynamic kidney exchange.
