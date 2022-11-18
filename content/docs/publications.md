@@ -25,10 +25,10 @@ Supersedes AAAI 2018.
 AAAI 2021.    
 [[pdf]](../papers/districtfair.pdf)
 
-**The Fluid Dynamics of Liquid Democracy.**  
+**The Fluid Mechanics of Liquid Democracy.**  
 (a) [Paul G&ouml;lz][Paul Golz], _Anson Kahng_, [Simon Mackenzie][Simon Mackenzie], and [Ariel D. Procaccia][Ariel Procaccia].  
 ACM Transactions on Economics and Computation (TEAC).  
-To appear. Supersedes WINE 2018.  
+[[pdf]](../papers/fluid-teac.pdf)  
 
 **Strategyproof Mean Estimation from Multiple-Choice Questions.**  
 (a) _Anson Kahng_, [Gregory Kehne][Gregory Kehne], and [Ariel D. Procaccia][Ariel Procaccia].  
@@ -65,7 +65,7 @@ CSCW 2019.
 ICML 2019.  
 [[pdf]](../papers/virtual.pdf) [[CMU AI lunch slides]](../slides/FoodRescue-AI-Lunch.key)
 
-**The Fluid Dynamics of Liquid Democracy.**  
+**The Fluid Mechanics of Liquid Democracy.**  
 (a) [Paul G&ouml;lz][Paul Golz], _Anson Kahng_, [Simon Mackenzie][Simon Mackenzie], and [Ariel D. Procaccia][Ariel Procaccia].  
 WINE 2018.  
 [[pdf]](../papers/fluid.pdf) [[code]](https://github.com/pgoelz/fluid)
